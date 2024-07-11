@@ -1,1 +1,0 @@
-OPENAI_API_KEY = sk-proj-tnVIzVofm6Ad5IYpDdTeT3BlbkFJB0zS4wJ3gTii4Ye6KjB6
